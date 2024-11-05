@@ -1,2 +1,2 @@
-//script of guess my number
 'use strict';
+console.log(document.querySelector('.message').textContent);
